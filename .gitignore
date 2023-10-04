@@ -3,3 +3,5 @@
 Library/obj
 Library/bin
 Library/.vs
+Library/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Library/obj/Debug/Library.csproj.AssemblyReference.cache
