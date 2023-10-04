@@ -1,3 +1,5 @@
 /.json
 /.vs
-
+Library/obj
+Library/bin
+Library/.vs
